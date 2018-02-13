@@ -1,0 +1,21 @@
+C:\Users\Eden Gamer\documents\visual studio 2013\Projects\FirebaseTEst\Firebase1\bin\Debug\Firebase1.dll
+C:\Users\Eden Gamer\documents\visual studio 2013\Projects\FirebaseTEst\Firebase1\bin\Debug\Firebase1.pdb
+C:\Users\Eden Gamer\documents\visual studio 2013\Projects\FirebaseTEst\Firebase1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eden Gamer\documents\visual studio 2013\Projects\FirebaseTEst\Firebase1\obj\Debug\Firebase1.dll
+C:\Users\Eden Gamer\documents\visual studio 2013\Projects\FirebaseTEst\Firebase1\obj\Debug\Firebase1.pdb
+C:\Users\Eden Gamer\documents\visual studio 2013\Projects\FirebaseTEst\Firebase1\obj\Debug\Firebase1.csprojResolveAssemblyReference.cache
+C:\Users\Br4infreze\Documents\Visual Studio 2015\Projects\Firebase1\bin\Debug\Firebase1.dll
+C:\Users\Br4infreze\Documents\Visual Studio 2015\Projects\Firebase1\bin\Debug\Firebase1.pdb
+C:\Users\Br4infreze\Documents\Visual Studio 2015\Projects\Firebase1\obj\Debug\Firebase1.csprojResolveAssemblyReference.cache
+C:\Users\Br4infreze\Documents\Visual Studio 2015\Projects\Firebase1\obj\Debug\Firebase1.dll
+C:\Users\Br4infreze\Documents\Visual Studio 2015\Projects\Firebase1\obj\Debug\Firebase1.pdb
+C:\Users\Br4inFreze\Desktop\Firebase\Firebase1-master-06dc913c54e687af7ae76d620820d1d169060192\bin\Debug\Firebase1.dll
+C:\Users\Br4inFreze\Desktop\Firebase\Firebase1-master-06dc913c54e687af7ae76d620820d1d169060192\bin\Debug\Firebase1.pdb
+C:\Users\Br4inFreze\Desktop\Firebase\Firebase1-master-06dc913c54e687af7ae76d620820d1d169060192\obj\Debug\Firebase1.csprojResolveAssemblyReference.cache
+C:\Users\Br4inFreze\Desktop\Firebase\Firebase1-master-06dc913c54e687af7ae76d620820d1d169060192\obj\Debug\Firebase1.dll
+C:\Users\Br4inFreze\Desktop\Firebase\Firebase1-master-06dc913c54e687af7ae76d620820d1d169060192\obj\Debug\Firebase1.pdb
+C:\Users\Br4infreze\Documents\Visual Studio 2015\Projects\Firebase1\Firebase1\bin\Debug\Firebase1.dll
+C:\Users\Br4infreze\Documents\Visual Studio 2015\Projects\Firebase1\Firebase1\bin\Debug\Firebase1.pdb
+C:\Users\Br4infreze\Documents\Visual Studio 2015\Projects\Firebase1\Firebase1\obj\Debug\Firebase1.csprojResolveAssemblyReference.cache
+C:\Users\Br4infreze\Documents\Visual Studio 2015\Projects\Firebase1\Firebase1\obj\Debug\Firebase1.dll
+C:\Users\Br4infreze\Documents\Visual Studio 2015\Projects\Firebase1\Firebase1\obj\Debug\Firebase1.pdb
